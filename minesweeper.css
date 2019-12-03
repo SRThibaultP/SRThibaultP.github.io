@@ -100,19 +100,19 @@
 
 .covered-s {
 	background-color:	LightGray;
-	box-shadow:			2px 2px 3px  White inset, 
+	box-shadow:			2px 2px 3px  White inset,
 						-2px -2px 3px  Gray inset;
 }
 
 .covered-m {
 	background-color:	LightGray;
-	box-shadow:			2px 2px 5px  White inset, 
+	box-shadow:			2px 2px 5px  White inset,
 						-2px -2px 5px  Gray inset;
 }
 
 .covered-l {
 	background-color:	LightGray;
-	box-shadow:			2px 2px 6px  White inset, 
+	box-shadow:			2px 2px 6px  White inset,
 						-2px -2px 6px  Gray inset;
 }
 
@@ -217,5 +217,5 @@
 }
 
 /* a weird bug, at least in Chrome, causes this to display one row of pixels on the right and
-bottom in "border-collapse: collapse" mode...  
+bottom in "border-collapse: collapse" mode...
 */
